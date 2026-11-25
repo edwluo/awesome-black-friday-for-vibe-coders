@@ -59,65 +59,65 @@ No code required. Promotion ends Dec 6.
 
 ### Coding Agents
 
-- [Perch](https://perch.run/) - Mac menu bar app for watching and approving coding agent sessions.
+- <picture><img src="https://www.google.com/s2/favicons?domain=perch.run&sz=64" width="16" height="16" alt=""></picture> [Perch](https://perch.run/) - Mac menu bar app for watching and approving coding agent sessions.
 
   > ~~$29~~ $17.40 license, first 500 orders, code `BLACKFRIDAY2026`, ends Dec 1
 
-- [1DevTool](https://1devtool.com/) - Desktop workspace that runs coding agents side by side with a browser, database client, and Git.
+- <picture><img src="https://www.google.com/s2/favicons?domain=1devtool.com&sz=64" width="16" height="16" alt=""></picture> [1DevTool](https://1devtool.com/) - Desktop workspace that runs coding agents side by side with a browser, database client, and Git.
 
   > ~~$29~~ $14.50 Pro license, code `BFDEALS50`, ends Nov 29
 
-- [DevWorkspace Pro](https://devworkspacepro.com/black-friday) - Desktop workspace for files, Git, terminals, services, and AI agents.
+- <picture><img src="https://www.google.com/s2/favicons?domain=devworkspacepro.com&sz=64" width="16" height="16" alt=""></picture> [DevWorkspace Pro](https://devworkspacepro.com/black-friday) - Desktop workspace for files, Git, terminals, services, and AI agents.
 
   > 40% off the first payment on all plans, code `BLACKFRIDAY40OFF`, ends Dec 9
 
-- [HackUtilities](https://hackutilities.com/pricing) - Desktop app for coding agents, dev servers, and terminals, with 46 offline tools.
+- <picture><img src="https://www.google.com/s2/favicons?domain=hackutilities.com&sz=64" width="16" height="16" alt=""></picture> [HackUtilities](https://hackutilities.com/pricing) - Desktop app for coding agents, dev servers, and terminals, with 46 offline tools.
 
   > 35% off lifetime licenses, code `BFCM2026`
 
-- [Callout](https://saycallout.com/) - Mac app that has Claude Code fix the bugs you report by voice.
+- <picture><img src="https://www.google.com/s2/favicons?domain=saycallout.com&sz=64" width="16" height="16" alt=""></picture> [Callout](https://saycallout.com/) - Mac app that has Claude Code fix the bugs you report by voice.
 
   > ~~$49~~ $19.99 license, ends Dec 1
 
-- [Atelier](https://appsbymo.app/atelier/) - Mac app that manages tasks, releases, feedback, and memory for AI coding projects.
+- <picture><img src="https://www.google.com/s2/favicons?domain=https://appsbymo.app/atelier/&sz=64" width="16" height="16" alt=""></picture> [Atelier](https://appsbymo.app/atelier/) - Mac app that manages tasks, releases, feedback, and memory for AI coding projects.
 
   > ~~$19.99~~ $9.99 license, code `BLACKFRIDAY`, ends Dec 1
 
-- [SessionWatcher](https://sessionwatcher.com/) - Usage, cost, and rate limit tracker for AI coding tools on Mac and Windows.
+- <picture><img src="https://www.google.com/s2/favicons?domain=sessionwatcher.com&sz=64" width="16" height="16" alt=""></picture> [SessionWatcher](https://sessionwatcher.com/) - Usage, cost, and rate limit tracker for AI coding tools on Mac and Windows.
 
   > 25% off Bundle and Pro Lifetime, starts Dec 1, ends Dec 6
 
-- [SupaYatta](https://supayatta.com/) - Mac notch app that alerts you when a coding agent finishes or gets stuck.
+- <picture><img src="https://www.google.com/s2/favicons?domain=supayatta.com&sz=64" width="16" height="16" alt=""></picture> [SupaYatta](https://supayatta.com/) - Mac notch app that alerts you when a coding agent finishes or gets stuck.
 
   > ~~$19.99~~ $9.99 lifetime license, code `YATTABF`, ends Dec 7
 
-- [DevIntern](https://devintern.com/pricing/) - Self-hosted worker that turns tickets into pull requests with your coding agent.
+- <picture><img src="https://www.google.com/s2/favicons?domain=devintern.com&sz=64" width="16" height="16" alt=""></picture> [DevIntern](https://devintern.com/pricing/) - Self-hosted worker that turns tickets into pull requests with your coding agent.
 
   > 40% off the first invoice, code `BLACKFRIDAY26`, ends Dec 1
 
-- [Skillry](https://skillry.dev/) - Agent skills for slides, web pages, images, and videos in Claude Code, Codex, and Cursor.
+- <picture><img src="https://www.google.com/s2/favicons?domain=skillry.dev&sz=64" width="16" height="16" alt=""></picture> [Skillry](https://skillry.dev/) - Agent skills for slides, web pages, images, and videos in Claude Code, Codex, and Cursor.
 
   > 50% off the first month or year of Pro, ends Nov 30
 
-- [Wovo](https://wovo.one/) - MCP connector that lets an AI app work across your computers.
+- <picture><img src="https://www.google.com/s2/favicons?domain=wovo.one&sz=64" width="16" height="16" alt=""></picture> [Wovo](https://wovo.one/) - MCP connector that lets an AI app work across your computers.
 
   > 50% off Pro and Max, ends Dec 15
 
-- [Warplet](https://warplet.app/) - Mac app that connects ChatGPT, Claude, and Gemini to your local MCP servers.
+- <picture><img src="https://www.google.com/s2/favicons?domain=warplet.app&sz=64" width="16" height="16" alt=""></picture> [Warplet](https://warplet.app/) - Mac app that connects ChatGPT, Claude, and Gemini to your local MCP servers.
 
   > ~~$14.99~~ $8.99 first year, code `BLACKFRIDAY2026`, ends Dec 1
 
 ### Chat and Voice
 
-- [Google AI](https://one.google.com/about/google-ai-plans/) - Gemini plans that include usage in Google Antigravity and AI Studio.
+- <picture><img src="https://www.google.com/s2/favicons?domain=one.google.com&sz=64" width="16" height="16" alt=""></picture> [Google AI](https://one.google.com/about/google-ai-plans/) - Gemini plans that include usage in Google Antigravity and AI Studio.
 
   > Up to 50% off select plans for eligible accounts, ends Nov 26
 
-- [TypingMind](https://www.typingmind.com/buy) - Chat client for using ChatGPT, Claude, Gemini, and other models with your own API keys.
+- <picture><img src="https://www.google.com/s2/favicons?domain=www.typingmind.com&sz=64" width="16" height="16" alt=""></picture> [TypingMind](https://www.typingmind.com/buy) - Chat client for using ChatGPT, Claude, Gemini, and other models with your own API keys.
 
   > 60% off Premium, code `BLACKFRIDAY2026`, ends Nov 30
 
-- [VoiceInk](https://tryvoiceink.com/black-friday) - On-device dictation for Mac.
+- <picture><img src="https://www.google.com/s2/favicons?domain=tryvoiceink.com&sz=64" width="16" height="16" alt=""></picture> [VoiceInk](https://tryvoiceink.com/black-friday) - On-device dictation for Mac.
 
   > 40% off lifetime licenses, code `BFVI2640`, ends Dec 5
 
@@ -125,79 +125,79 @@ No code required. Promotion ends Dec 6.
 
 ### App Builders
 
-- [Layerwise](https://layerwise.app/pricing) - Desktop builder for full-stack web apps with a database, storage, sign-in, and email.
+- <picture><img src="https://www.google.com/s2/favicons?domain=layerwise.app&sz=64" width="16" height="16" alt=""></picture> [Layerwise](https://layerwise.app/pricing) - Desktop builder for full-stack web apps with a database, storage, sign-in, and email.
 
   > 20% off any plan for 12 months, code `BLACKFRIDAY2026`, ends Dec 2
 
-- [Meku](https://meku.dev/pricing) - Prompt-based builder for web apps and sites. Offer per [Pimjo](https://pimjo.com/black-friday-cyber-monday-deal).
+- <picture><img src="https://www.google.com/s2/favicons?domain=meku.dev&sz=64" width="16" height="16" alt=""></picture> [Meku](https://meku.dev/pricing) - Prompt-based builder for web apps and sites. Offer per [Pimjo](https://pimjo.com/black-friday-cyber-monday-deal).
 
   > 30% off all paid plans, code `BLFCM2026`, ends Dec 1
 
-- [Hostinger AI Builder](https://www.hostinger.com/ai-builder) - Builder for websites, web apps, and games with hosting included.
+- <picture><img src="https://www.google.com/s2/favicons?domain=www.hostinger.com&sz=64" width="16" height="16" alt=""></picture> [Hostinger AI Builder](https://www.hostinger.com/ai-builder) - Builder for websites, web apps, and games with hosting included.
 
   > Up to 85% off plus double credits, ends Dec 14
 
 ### Starter Kits
 
-- [MakerKit](https://makerkit.dev/pricing) - SaaS starter kits for Next.js, React Router, and TanStack Start with agent rules and an MCP server.
+- <picture><img src="https://www.google.com/s2/favicons?domain=makerkit.dev&sz=64" width="16" height="16" alt=""></picture> [MakerKit](https://makerkit.dev/pricing) - SaaS starter kits for Next.js, React Router, and TanStack Start with agent rules and an MCP server.
 
   > 35% off Supabase, Drizzle, and Prisma kits, code `BLACKFRIDAY2026`
 
-- [TurboStarter](https://www.turbostarter.dev/) - Starter kit for web apps, mobile apps, and browser extensions.
+- <picture><img src="https://www.google.com/s2/favicons?domain=www.turbostarter.dev&sz=64" width="16" height="16" alt=""></picture> [TurboStarter](https://www.turbostarter.dev/) - Starter kit for web apps, mobile apps, and browser extensions.
 
   > $150 off all kits, code `BF26`, ends Nov 29
 
-- [SaaSykit](https://saasykit.com/) - Laravel SaaS starter kit with billing, auth, multi-tenancy, and an admin panel.
+- <picture><img src="https://www.google.com/s2/favicons?domain=saasykit.com&sz=64" width="16" height="16" alt=""></picture> [SaaSykit](https://saasykit.com/) - Laravel SaaS starter kit with billing, auth, multi-tenancy, and an admin panel.
 
   > 50% off all plans, code `BLACKFRIDAY26`
 
-- [MkSaaS](https://mksaas.com/) - Next.js boilerplate for AI SaaS with auth, payments, and a dashboard.
+- <picture><img src="https://www.google.com/s2/favicons?domain=mksaas.com&sz=64" width="16" height="16" alt=""></picture> [MkSaaS](https://mksaas.com/) - Next.js boilerplate for AI SaaS with auth, payments, and a dashboard.
 
   > ~~$199~~ $99 lifetime license, ends Nov 30
 
-- [TanStarter](https://tanstarter.dev/) - TanStack Start boilerplate for AI SaaS on Cloudflare Workers.
+- <picture><img src="https://www.google.com/s2/favicons?domain=tanstarter.dev&sz=64" width="16" height="16" alt=""></picture> [TanStarter](https://tanstarter.dev/) - TanStack Start boilerplate for AI SaaS on Cloudflare Workers.
 
   > ~~$199~~ $99 lifetime license, ends Nov 30
 
-- [ShipAhead](https://shipahe.ad/) - Nuxt boilerplate for SaaS, AI tools, and web apps.
+- <picture><img src="https://www.google.com/s2/favicons?domain=shipahe.ad&sz=64" width="16" height="16" alt=""></picture> [ShipAhead](https://shipahe.ad/) - Nuxt boilerplate for SaaS, AI tools, and web apps.
 
   > ~~$199~~ $99 lifetime license, ends Nov 30
 
-- [SaaScaffold](https://saascaffold.com/) - TypeScript SaaS starter for Cloudflare Workers with runbooks for coding agents.
+- <picture><img src="https://www.google.com/s2/favicons?domain=saascaffold.com&sz=64" width="16" height="16" alt=""></picture> [SaaScaffold](https://saascaffold.com/) - TypeScript SaaS starter for Cloudflare Workers with runbooks for coding agents.
 
   > ~~$99~~ $49 one-time purchase, ends Dec 6
 
-- [SoarStarter](https://soarstarter.com/) - Starter kits for web, mobile, and desktop apps.
+- <picture><img src="https://www.google.com/s2/favicons?domain=soarstarter.com&sz=64" width="16" height="16" alt=""></picture> [SoarStarter](https://soarstarter.com/) - Starter kits for web, mobile, and desktop apps.
 
   > All 8 kits for $199, single kits from $59, ends Dec 1
 
-- [Indie Kit](https://indiekit.pro/) - Next.js boilerplate with Claude Code and Cursor skills.
+- <picture><img src="https://www.google.com/s2/favicons?domain=indiekit.pro&sz=64" width="16" height="16" alt=""></picture> [Indie Kit](https://indiekit.pro/) - Next.js boilerplate with Claude Code and Cursor skills.
 
   > ~~$187~~ $90.30 bundle with SmoothCut and Auto Social Media Kit
 
-- [SaaSBold](https://saasbold.com/) - Next.js SaaS boilerplate with auth, payments, and dashboards. Offer per [Pimjo](https://pimjo.com/black-friday-cyber-monday-deal).
+- <picture><img src="https://www.google.com/s2/favicons?domain=saasbold.com&sz=64" width="16" height="16" alt=""></picture> [SaaSBold](https://saasbold.com/) - Next.js SaaS boilerplate with auth, payments, and dashboards. Offer per [Pimjo](https://pimjo.com/black-friday-cyber-monday-deal).
 
   > 50% off all plans, code `BLFCM2026`, ends Dec 1
 
 ### UI Kits and Templates
 
-- [Shadcnblocks](https://www.shadcnblocks.com/pricing) - Blocks, components, and templates for shadcn/ui and Tailwind CSS.
+- <picture><img src="https://www.google.com/s2/favicons?domain=www.shadcnblocks.com&sz=64" width="16" height="16" alt=""></picture> [Shadcnblocks](https://www.shadcnblocks.com/pricing) - Blocks, components, and templates for shadcn/ui and Tailwind CSS.
 
   > 40% off everything, code `SHADCNBLOCKSFRI40`, ends Nov 30
 
-- [Shadcn Space](https://shadcnspace.com/pricing) - UI blocks, templates, and components for shadcn/ui.
+- <picture><img src="https://www.google.com/s2/favicons?domain=shadcnspace.com&sz=64" width="16" height="16" alt=""></picture> [Shadcn Space](https://shadcnspace.com/pricing) - UI blocks, templates, and components for shadcn/ui.
 
   > 40% off, code `BFCM`, ends Dec 1
 
-- [Tailkit](https://tailkit.com/pricing) - Tailwind CSS components for React, Vue.js, Laravel, and HTML, with an MCP server.
+- <picture><img src="https://www.google.com/s2/favicons?domain=tailkit.com&sz=64" width="16" height="16" alt=""></picture> [Tailkit](https://tailkit.com/pricing) - Tailwind CSS components for React, Vue.js, Laravel, and HTML, with an MCP server.
 
   > Up to 60% off
 
-- [TailGrids](https://tailgrids.com/pricing) - React and Tailwind CSS blocks and templates with a Figma kit. Offer per [Pimjo](https://pimjo.com/black-friday-cyber-monday-deal).
+- <picture><img src="https://www.google.com/s2/favicons?domain=tailgrids.com&sz=64" width="16" height="16" alt=""></picture> [TailGrids](https://tailgrids.com/pricing) - React and Tailwind CSS blocks and templates with a Figma kit. Offer per [Pimjo](https://pimjo.com/black-friday-cyber-monday-deal).
 
   > 50% off All Access plans, code `BLFCM2026`, ends Dec 1
 
-- [CodedVisuals](https://codedvisuals.com/) - Animated visuals and illustrations for React and shadcn/ui, with AI agent skills.
+- <picture><img src="https://www.google.com/s2/favicons?domain=codedvisuals.com&sz=64" width="16" height="16" alt=""></picture> [CodedVisuals](https://codedvisuals.com/) - Animated visuals and illustrations for React and shadcn/ui, with AI agent skills.
 
   > Up to 40% off, ends Dec 1
 
@@ -205,51 +205,51 @@ No code required. Promotion ends Dec 6.
 
 ### Databases
 
-- [TablePlus](https://tableplus.com/pricing) - Database GUI for Mac, Windows, Linux, and iOS.
+- <picture><img src="https://www.google.com/s2/favicons?domain=tableplus.com&sz=64" width="16" height="16" alt=""></picture> [TablePlus](https://tableplus.com/pricing) - Database GUI for Mac, Windows, Linux, and iOS.
 
   > 25% off, code `BLACK_FRIDAY_2026`
 
-- [TablePro](https://tablepro.app/black-friday) - Open-source database client for PostgreSQL, MySQL, MongoDB, and Redis.
+- <picture><img src="https://www.google.com/s2/favicons?domain=tablepro.app&sz=64" width="16" height="16" alt=""></picture> [TablePro](https://tablepro.app/black-friday) - Open-source database client for PostgreSQL, MySQL, MongoDB, and Redis.
 
   > 40% off one-time and yearly Pro, ends Dec 1
 
-- [data-peek](https://www.datapeek.dev/) - SQL client with AI powered by your Claude Code or Codex subscription.
+- <picture><img src="https://www.google.com/s2/favicons?domain=www.datapeek.dev&sz=64" width="16" height="16" alt=""></picture> [data-peek](https://www.datapeek.dev/) - SQL client with AI powered by your Claude Code or Codex subscription.
 
   > ~~$29~~ $17.40 per year for Pro, ends Dec 1
 
-- [Layerbase](https://layerbase.com/pricing) - Serverless and managed databases for 19 engines.
+- <picture><img src="https://www.google.com/s2/favicons?domain=layerbase.com&sz=64" width="16" height="16" alt=""></picture> [Layerbase](https://layerbase.com/pricing) - Serverless and managed databases for 19 engines.
 
   > 50% off the first month, code `BFSOLO26` (Solo) or `BFPRO26` (Pro), ends Nov 30
 
 ### Developer Tools
 
-- [Tower](https://www.git-tower.com/pricing) - Git client for Mac and Windows.
+- <picture><img src="https://www.google.com/s2/favicons?domain=www.git-tower.com&sz=64" width="16" height="16" alt=""></picture> [Tower](https://www.git-tower.com/pricing) - Git client for Mac and Windows.
 
   > Up to 50% off the first year, ends Dec 6
 
-- [LocalCan](https://www.localcan.com/pricing) - Tool for public URLs and local domains for apps in development, with an MCP server.
+- <picture><img src="https://www.google.com/s2/favicons?domain=www.localcan.com&sz=64" width="16" height="16" alt=""></picture> [LocalCan](https://www.localcan.com/pricing) - Tool for public URLs and local domains for apps in development, with an MCP server.
 
   > 50% off the first year of Solo and Pro, code `BF50`, ends Dec 1
 
-- [Proxyman](https://proxyman.com/pricing) - HTTP debugging proxy for desktop and mobile.
+- <picture><img src="https://www.google.com/s2/favicons?domain=proxyman.com&sz=64" width="16" height="16" alt=""></picture> [Proxyman](https://proxyman.com/pricing) - HTTP debugging proxy for desktop and mobile.
 
   > 30% off, code `BF2026`
 
-- [Akev](https://akev.dev/pricing) - Open-source HTTP debugging proxy.
+- <picture><img src="https://www.google.com/s2/favicons?domain=akev.dev&sz=64" width="16" height="16" alt=""></picture> [Akev](https://akev.dev/pricing) - Open-source HTTP debugging proxy.
 
   > ~~$49~~ $34.30 Pro license, code `BLACKFRIDAY`, ends Dec 6
 
 ### Testing and Security
 
-- [Vibe App Scanner](https://vibeappscanner.com/black-friday) - Security scanner for live apps and source code.
+- <picture><img src="https://www.google.com/s2/favicons?domain=vibeappscanner.com&sz=64" width="16" height="16" alt=""></picture> [Vibe App Scanner](https://vibeappscanner.com/black-friday) - Security scanner for live apps and source code.
 
   > 60% off the first month of Go or Pro, ends Nov 30
 
-- [TestDino](https://testdino.com/pricing) - Playwright test reporting for teams and AI agents.
+- <picture><img src="https://www.google.com/s2/favicons?domain=testdino.com&sz=128" width="16" height="16" alt=""></picture> [TestDino](https://testdino.com/pricing) - Playwright test reporting for teams and AI agents.
 
   > 30% off the first year of annual Pro and Team plans, code `DINOFRIDAY30`, ends Dec 3
 
-- [Device MCP](https://devicemcp.ai/) - MCP server that lets AI agents tap, type, and test on real iPhones and iPads.
+- <picture><img src="https://www.google.com/s2/favicons?domain=devicemcp.ai&sz=64" width="16" height="16" alt=""></picture> [Device MCP](https://devicemcp.ai/) - MCP server that lets AI agents tap, type, and test on real iPhones and iPads.
 
   > ~~$69~~ From $34.50, early bird, or 30% off with code `BF2026`
 
@@ -257,61 +257,61 @@ No code required. Promotion ends Dec 6.
 
 ### Hosting and Domains
 
-- [uql.to](https://uql.to/black-friday) - Short links and QR codes that open your waitlist before launch, then send iPhone users to the App Store and Android users to Google Play after.
+- <picture><img src="https://getuql.com/favicon.svg" width="16" height="16" alt=""></picture> [uql.to](https://uql.to/black-friday) - Short links and QR codes that open your waitlist before launch, then send iPhone users to the App Store and Android users to Google Play after.
 
-- [Static.app](https://static.app/black-friday) - Static website hosting with one-click publishing.
+  > ~~$144~~ $115.20 Plus, first year, code `BF2026`, yearly billing, ends Dec 6. Premium and Super yearly plans are 20% off too.
+
+- <picture><img src="https://www.google.com/s2/favicons?domain=static.app&sz=64" width="16" height="16" alt=""></picture> [Static.app](https://static.app/black-friday) - Static website hosting with one-click publishing.
 
   > 35% off the first payment on every plan, code `BLACKFRIDAY35`, ends Dec 1
 
-- [DeployHQ](https://www.deployhq.com/pricing) - Automatic deployments from GitHub, GitLab, and Bitbucket.
+- <picture><img src="https://www.google.com/s2/favicons?domain=www.deployhq.com&sz=64" width="16" height="16" alt=""></picture> [DeployHQ](https://www.deployhq.com/pricing) - Automatic deployments from GitHub, GitLab, and Bitbucket.
 
   > 50% off the first 3 monthly payments for new customers, ends Dec 6
 
-- [Porkbun](https://porkbun.com/event/blackfriday) - Domain registrar with free WHOIS privacy and SSL.
+- <picture><img src="https://www.google.com/s2/favicons?domain=porkbun.com&sz=64" width="16" height="16" alt=""></picture> [Porkbun](https://porkbun.com/event/blackfriday) - Domain registrar with free WHOIS privacy and SSL.
 
   > First-year sale on selected domain extensions, ends Dec 4
 
 ### Analytics and App Stores
 
-- [Pirsch](https://pirsch.io/pricing) - Privacy-friendly web analytics.
+- <picture><img src="https://www.google.com/s2/favicons?domain=pirsch.io&sz=64" width="16" height="16" alt=""></picture> [Pirsch](https://pirsch.io/pricing) - Privacy-friendly web analytics.
 
   > 20% off the first payment, code `BLACKFRIDAY26`, ends Dec 31
 
-- [Pulsetic](https://pulsetic.com/black-friday/) - Uptime monitoring and status pages.
+- <picture><img src="https://www.google.com/s2/favicons?domain=pulsetic.com&sz=64" width="16" height="16" alt=""></picture> [Pulsetic](https://pulsetic.com/black-friday/) - Uptime monitoring and status pages.
 
   > 35% off the first payment on any paid plan, code `BLACKFRIDAY35`, ends Dec 3
 
-  > ~~$144~~ $115.20 Plus, first year, code `BF2026`, yearly billing, ends Dec 6. Premium and Super yearly plans are 20% off too.
-
-- [Astro](https://tryastro.app/) - App Store keyword tracking for Apple developers.
+- <picture><img src="https://www.google.com/s2/favicons?domain=tryastro.app&sz=64" width="16" height="16" alt=""></picture> [Astro](https://tryastro.app/) - App Store keyword tracking for Apple developers.
 
   > 30% off the first year, code `BLACKFRIDAY2026`
 
-- [Ascope](https://ascope.app/) - App Store and Google Play keyword tracking for Mac and Windows.
+- <picture><img src="https://www.google.com/s2/favicons?domain=ascope.app&sz=64" width="16" height="16" alt=""></picture> [Ascope](https://ascope.app/) - App Store and Google Play keyword tracking for Mac and Windows.
 
   > ~~$189~~ $69 lifetime license, ends Dec 1
 
 ### Screen Recording
 
-- [Clipy](https://clipy.online/pricing) - Screen recorder that gives coding agents a transcript and key moments.
+- <picture><img src="https://www.google.com/s2/favicons?domain=clipy.online&sz=64" width="16" height="16" alt=""></picture> [Clipy](https://clipy.online/pricing) - Screen recorder that gives coding agents a transcript and key moments.
 
   > ~~$72~~ $49 first year of Pro Annual
 
-- [SmoothCapture](https://smoothcapture.app/pricing) - Mac screen recorder for product videos with 3D device models.
+- <picture><img src="https://www.google.com/s2/favicons?domain=smoothcapture.app&sz=64" width="16" height="16" alt=""></picture> [SmoothCapture](https://smoothcapture.app/pricing) - Mac screen recorder for product videos with 3D device models.
 
   > 50% off Basic, Personal, and Lifetime, code `BLACKFRIDAY26`, ends Dec 3
 
 ## Learn
 
-- [Zero To Mastery](https://zerotomastery.io/) - Coding and AI courses with a student community.
+- <picture><img src="https://www.google.com/s2/favicons?domain=zerotomastery.io&sz=64" width="16" height="16" alt=""></picture> [Zero To Mastery](https://zerotomastery.io/) - Coding and AI courses with a student community.
 
   > 66% off annual membership, code `BFCM26`, ends Dec 1
 
-- [Coursera Plus](https://www.coursera.org/courseraplus) - Subscription to courses and professional certificates.
+- <picture><img src="https://www.google.com/s2/favicons?domain=www.coursera.org&sz=64" width="16" height="16" alt=""></picture> [Coursera Plus](https://www.coursera.org/courseraplus) - Subscription to courses and professional certificates.
 
   > ~~$399~~ $239.40 first year for new subscribers, ends Nov 30
 
-- [Certificates.dev](https://certificates.dev/black-friday) - Developer certifications, including an AI-Native Developer exam.
+- <picture><img src="https://www.google.com/s2/favicons?domain=certificates.dev&sz=64" width="16" height="16" alt=""></picture> [Certificates.dev](https://certificates.dev/black-friday) - Developer certifications, including an AI-Native Developer exam.
 
   > Up to 60% off, ends Dec 2
 
