@@ -35,7 +35,7 @@ I made [Homeck](https://homeck.app), the all-in-one HomeKit app I always wanted,
 <tr>
 <td width="1000">
 
-<a href="http://uql.to/homeck-bf?utm_source=github&utm_medium=affiliate&utm_campaign=black-friday-2026&utm_content=vibe-coders"><img src="https://homeck.app/og/black-friday.jpg" align="right" width="30%" alt="Homeck Black Friday: 40% off Homeck Pro annual and lifetime"></a>
+<a href="http://uql.to/homeck-bf?utm_source=github&utm_medium=affiliate&utm_campaign=black-friday-2026&utm_content=vibe-coders"><img src="https://homeck.app/og/black-friday.jpg" align="right" width="40%" alt="Homeck Black Friday: 40% off Homeck Pro annual and lifetime"></a>
 [Homeck Pro](http://uql.to/homeck-bf?utm_source=github&utm_medium=affiliate&utm_campaign=black-friday-2026&utm_content=vibe-coders) is 40% off annual and lifetime:
 
 - Alerts when something changes
