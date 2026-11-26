@@ -201,6 +201,10 @@ No code required. Promotion ends Dec 6.
 
   > Up to 40% off, ends Dec 1
 
+- [ReUI](https://reui.io/pricing?utm_source=vibe-coders-bfcm&utm_medium=directory&utm_campaign=reui-nov26) - The agent-ready layer for shadcn/ui.
+
+  > 30% off every license, no code needed, ends Nov 30
+
 ## Debug
 
 ### Databases
