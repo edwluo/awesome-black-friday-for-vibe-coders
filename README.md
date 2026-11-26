@@ -107,6 +107,10 @@ No code required. Promotion ends Dec 6.
 
   > ~~$14.99~~ $8.99 first year, code `BLACKFRIDAY2026`, ends Dec 1
 
+- <picture><img src="https://www.google.com/s2/favicons?domain=atatapp.com&sz=64" width="16" height="16" alt=""></picture> [AtAt](https://atatapp.com/black-friday) - Call in your own AI CLI, API key, or Ollama anywhere on Mac with @@, plus built-in screenshots, scrolling capture, OCR, clipboard history, selection bar, and voice dictation.
+
+  > ~~$169~~ $89 lifetime (47% off) or ~~$59~~ $39 first year (34% off), no code needed, ends Dec 15
+
 ### Chat and Voice
 
 - <picture><img src="https://www.google.com/s2/favicons?domain=one.google.com&sz=64" width="16" height="16" alt=""></picture> [Google AI](https://one.google.com/about/google-ai-plans/) - Gemini plans that include usage in Google Antigravity and AI Studio.
